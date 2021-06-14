@@ -24,6 +24,7 @@ Create a two-way traffic light system using LEDs and ICs
 
 1x 10k Ohm
 
+
 ---LEDs:
 
 2x White
@@ -35,3 +36,11 @@ Create a two-way traffic light system using LEDs and ICs
 2x Yellow
 
 2x Green
+
+---Inductors:
+
+1x 47 mH
+
+--Capacitors:
+
+1x 1 µF
